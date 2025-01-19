@@ -1,0 +1,61 @@
+{
+    "commands" : {
+        "reports" : "informes",
+        "reportsHelp" : "Ver informes de jugadores",
+        "report" : "informe",
+        "reportHelp" : "¡Reportar a un jugador!"
+    },
+
+    "notify" : {
+        "noReportsTitle" : "¡No hay informes!",
+        "noReportsDesc" : "¡No hay informes para ver!",
+        "newReportTitle" : "¡Nuevo informe!",
+        "newReportDesc" : "Entrante de %s",
+        "maxReportsTitle" : "¡Máximo de informes!",
+        "maxReportsDesc" : "¡Solo puedes abrir 1 informe a la vez!",
+        "cannotTeleport" : "Ocurrió un problema, ¡no se puede teletransportar!",
+        "adminTeleportedTo" : "Administrador teletransportado a ti",
+        "teleportedTo" : "Teletransportado a %s",
+        "adminBrought" : "Administrador te ha traído",
+        "brought" : "Traído %s",
+        "deletedReport" : "Informe eliminado #%s",
+        "deletedReportDesc" : "Razón: %s",
+        "deletedReports" : "Todos los informes eliminados"
+    },
+
+    "input" : {
+        "title" : "Reportar a un jugador",
+        "playerIdTitle" : "ID del jugador",
+        "playerIdDesc" : "El ID del jugador que estás reportando",
+        "reasonTitle" : "Razón del informe",
+        "reasonDesc" : "Razón detallada para el informe del jugador.",
+        "checkbox" : "Confirmo que este informe es verídico y preciso",
+        "deleteTitle" : "Eliminar informe",
+        "deleteReasonTitle" : "Razón",
+        "deleteReasonDesc" : "¿Por qué estás eliminando este informe?"
+    },
+
+    "menu" : {
+        "title" : "Informes de jugadores (%s)",
+        "reportOptionTitle" : "[%s] Informe activo",
+        "reportOptionDesc" : "Informe de: %s [%s]",
+        "reportOptionDescResolving" : "Actualmente hay %s respondiendo a este informe",
+        "reportingPlayer" : "Jugador que reporta",
+        "reportedPlayer" : "Jugador reportado",
+        "report" : "Informe",
+        "gotoPlayer" : "Ir al jugador",
+        "bringPlayer" : "Traer jugador",
+        "noReported" : "No hay jugador reportado",
+        "deleteReport" : "Eliminar informe",
+        "deleteAllReports" : "Eliminar todos los informes",
+        "reporterActions" : "Acciones del reportante",
+        "reportedActions" : "Acciones del reportado"
+    },
+
+    "alert" : {
+        "deleteTitle" : "Eliminar informe",
+        "deleteContent" : "¿Estás seguro de que quieres eliminar este informe?",
+        "deleteAllTitle" : "Eliminar todos los informes",
+        "deleteAllContent" : "¿Estás seguro de que quieres eliminar TODOS los informes?"
+    }
+}

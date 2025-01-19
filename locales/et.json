@@ -1,0 +1,61 @@
+{
+    "commands" : {
+        "reports" : "aruanded",
+        "reportsHelp" : "Vaata mängijate aruandeid",
+        "report" : "aruanne",
+        "reportHelp" : "Teata mängijast!"
+    },
+
+    "notify" : {
+        "noReportsTitle" : "Aruandeid pole!",
+        "noReportsDesc" : "Aruandeid pole vaatamiseks!",
+        "newReportTitle" : "Uus aruanne!",
+        "newReportDesc" : "Tuleb sisse %s",
+        "maxReportsTitle" : "Maksimaalne arv aruandeid!",
+        "maxReportsDesc" : "Saate avada korraga ainult 1 aruande!",
+        "cannotTeleport" : "Tekkis probleem, ei saa teleporteeruda!",
+        "adminTeleportedTo" : "Admin teleporteerus sinu juurde",
+        "teleportedTo" : "Teleporteeritud %s juurde",
+        "adminBrought" : "Admin tõi sind siia",
+        "brought" : "Toodud %s",
+        "deletedReport" : "Aruanne kustutatud #%s",
+        "deletedReportDesc" : "Põhjus: %s",
+        "deletedReports" : "Kõik aruanded kustutatud"
+    },
+
+    "input" : {
+        "title" : "Teata mängijast",
+        "playerIdTitle" : "Mängija ID",
+        "playerIdDesc" : "Mängija ID, kellest te teatate",
+        "reasonTitle" : "Aruande põhjus",
+        "reasonDesc" : "Üksikasjalik põhjus mängija aruande jaoks.",
+        "checkbox" : "Kinnitan, et see aruanne on tõene ja täpne",
+        "deleteTitle" : "Kustuta aruanne",
+        "deleteReasonTitle" : "Põhjus",
+        "deleteReasonDesc" : "Miks sa selle aruande kustutad?"
+    },
+
+    "menu" : {
+        "title" : "Mängijate aruanded (%s)",
+        "reportOptionTitle" : "[%s] Aktiivne aruanne",
+        "reportOptionDesc" : "Aruanne: %s [%s]",
+        "reportOptionDescResolving" : "%s vastab praegu sellele aruandele",
+        "reportingPlayer" : "Aruande esitaja",
+        "reportedPlayer" : "Aruande all olev mängija",
+        "report" : "Aruanne",
+        "gotoPlayer" : "Mine mängija juurde",
+        "bringPlayer" : "Too mängija",
+        "noReported" : "Pole aruande all olevaid mängijaid",
+        "deleteReport" : "Kustuta aruanne",
+        "deleteAllReports" : "Kustuta kõik aruanded",
+        "reporterActions" : "Esitaja toimingud",
+        "reportedActions" : "Aruandealuse toimingud"
+    },
+
+    "alert" : {
+        "deleteTitle" : "Kustuta aruanne",
+        "deleteContent" : "Kas olete kindel, et soovite selle aruande kustutada?",
+        "deleteAllTitle" : "Kustuta kõik aruanded",
+        "deleteAllContent" : "Kas olete kindel, et soovite KÕIK aruanded kustutada?"
+    }
+}

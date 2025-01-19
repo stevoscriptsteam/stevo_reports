@@ -1,0 +1,68 @@
+{
+    "commands" : {
+        "reports" : "reports",
+        "reportsHelp" : "View Player Reports",
+        "report" : "report",
+        "reportHelp" : "Report a Player!"
+    },
+
+    "notify" : {
+        "noReportsTitle" : "No Reports!",
+        "noReportsDesc" : "There are no reports to view!",
+        "newReportTitle" : "New Report!",
+        "newReportDesc" : "Incoming from %s",
+        "maxReportsTitle" : "Max Reports!",
+        "maxReportsDesc" : "You can only open 1 report at a time!",
+        "cannotTeleport" : "Issue Occured, cannot teleport!",
+        "adminTeleportedTo" : "Admin Teleported To You",
+        "teleportedTo" : "Teleported to %s",
+        "adminBrought" : "Admin Brought You",
+        "brought" : "Brought %s",
+        "deletedReport" : "Deleted Report #%s",
+        "deletedReportDesc" : "Reason: %s",
+        "deletedReports" : "Deleted All Reports"
+        
+    },
+
+    "input" : {
+        "title" : "Report A Player",
+        "playerIdTitle" : "Player ID",
+        "playerIdDesc" : "The ID of the player you are reporting",
+        "reasonTitle" : "Report Reason",
+        "reasonDesc" : "Detailed reason for player report.",
+        "checkbox" : "I confirm this report is factual and accurate",
+        "deleteTitle" : "Delete Report",
+        "deleteReasonTitle" : "Reason",
+        "deleteReasonDesc" : "Why are you deleting this report?"
+    },
+
+
+    "menu" : {
+        "title" : "Player Reports (%s)",
+        "reportOptionTitle" : "[%s] Active Report",
+        "reportOptionDesc" : "Report from: %s [%s]",
+        "reportOptionDescResolving" : "There are %s currently responded to this report",
+        "reportingPlayer" : "Reporting Player",
+        "reportedPlayer" : "Reported Player",
+        "report" : "Report",
+        "gotoPlayer" : "Goto Player",
+        "bringPlayer" : "Bring Player",
+        "noReported" : "No Reported Player",
+        "deleteReport" : "Delete Report",
+        "deleteAllReports" : "Delete All Reports",
+        "reporterActions" : "Reporter Actions",
+        "reportedActions" : "Reported Actions"
+        
+    },
+
+    "alert" : {
+        "deleteTitle" : "Delete Report",
+        "deleteContent" : "Are you sure you want to delete this report?",
+        "deleteAllTitle" : "Delete All Reports",
+        "deleteAllContent" : "Are you sure you want to delete ALL of the reports?"
+    }
+
+   
+
+    
+}

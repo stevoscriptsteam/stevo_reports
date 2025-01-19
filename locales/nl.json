@@ -1,0 +1,61 @@
+{
+    "commands" : {
+        "reports" : "meldingen",
+        "reportsHelp" : "Bekijk spelersmeldingen",
+        "report" : "melding",
+        "reportHelp" : "Meld een speler!"
+    },
+
+    "notify" : {
+        "noReportsTitle" : "Geen meldingen!",
+        "noReportsDesc" : "Er zijn geen meldingen om te bekijken!",
+        "newReportTitle" : "Nieuwe melding!",
+        "newReportDesc" : "Binnenkomend van %s",
+        "maxReportsTitle" : "Maximale meldingen!",
+        "maxReportsDesc" : "Je kunt slechts 1 melding tegelijk openen!",
+        "cannotTeleport" : "Probleem opgetreden, kan niet teleporteren!",
+        "adminTeleportedTo" : "Beheerder naar je geteleporteerd",
+        "teleportedTo" : "Geteleporteerd naar %s",
+        "adminBrought" : "Beheerder heeft je gebracht",
+        "brought" : "Gebracht naar %s",
+        "deletedReport" : "Melding verwijderd #%s",
+        "deletedReportDesc" : "Reden: %s",
+        "deletedReports" : "Alle meldingen verwijderd"
+    },
+
+    "input" : {
+        "title" : "Meld een speler",
+        "playerIdTitle" : "Speler ID",
+        "playerIdDesc" : "Het ID van de speler die je meldt",
+        "reasonTitle" : "Reden voor melding",
+        "reasonDesc" : "Gedetailleerde reden voor de melding van de speler.",
+        "checkbox" : "Ik bevestig dat deze melding feitelijk en accuraat is",
+        "deleteTitle" : "Melding verwijderen",
+        "deleteReasonTitle" : "Reden",
+        "deleteReasonDesc" : "Waarom verwijder je deze melding?"
+    },
+
+    "menu" : {
+        "title" : "Spelersmeldingen (%s)",
+        "reportOptionTitle" : "[%s] Actieve melding",
+        "reportOptionDesc" : "Melding van: %s [%s]",
+        "reportOptionDescResolving" : "Er reageren momenteel %s op deze melding",
+        "reportingPlayer" : "Speler die meldt",
+        "reportedPlayer" : "Gemelde speler",
+        "report" : "Melding",
+        "gotoPlayer" : "Ga naar speler",
+        "bringPlayer" : "Breng speler",
+        "noReported" : "Geen gemelde speler",
+        "deleteReport" : "Melding verwijderen",
+        "deleteAllReports" : "Alle meldingen verwijderen",
+        "reporterActions" : "Acties melder",
+        "reportedActions" : "Acties gemelde"
+    },
+
+    "alert" : {
+        "deleteTitle" : "Melding verwijderen",
+        "deleteContent" : "Weet je zeker dat je deze melding wilt verwijderen?",
+        "deleteAllTitle" : "Alle meldingen verwijderen",
+        "deleteAllContent" : "Weet je zeker dat je ALLE meldingen wilt verwijderen?"
+    }
+}
